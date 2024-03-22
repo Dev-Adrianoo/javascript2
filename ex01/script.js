@@ -1,4 +1,4 @@
-// Utilize sempre Camel Case no JavaScript
+// Utilize sempre Camel Case no JavaScript exemplo: meuNomeCompleto = "Adriano Tereza De Souza"
 
 //Javascript possui tipagem dinâmica: infere os tipos de dados
 // JavaScript possuiu um tipagem fraca.
@@ -18,3 +18,8 @@ console.log(curso, topico)
 
 //! Não utilize o var nos seus códigos JavaScript
 
+let notaDoAluno = 10;
+
+ // Não é permitidado ! const mediaDoAluno = 8;
+
+notaDoAluno = 9;
